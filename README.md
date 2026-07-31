@@ -60,7 +60,7 @@ I like understanding how systems actually work — from OOP fundamentals and dat
 <div align="center">
 
 <a href="https://github.com/SilentSoul8R">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SilentSoul8R&repo=YOUR_REPO_NAME&theme=radical&hide_border=true" alt="Top Repo" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SilentSoul8R&repo=Java_Banking_System_WithDB&theme=radical&hide_border=true" alt="Top Repo" />
 </a>
 
 </div>
