@@ -48,8 +48,8 @@ I like understanding how systems actually work — from OOP fundamentals and dat
 
 <div align="center">
 
-> *"The best way to predict the future is to invent it."*
-> — Alan Kay
+> *"It's not a bug, it's an undocumented feature."*
+> — Anonymous
 
 </div>
 
