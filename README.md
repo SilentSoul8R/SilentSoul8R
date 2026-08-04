@@ -7,6 +7,17 @@ I like understanding how systems actually work — from OOP fundamentals and dat
 
 </div>
 
+
+## ⭐ Favorites
+| Category | Pick |
+|---|---|
+| 🎮 Game | The Elder Scrolls V: Skyrim |
+| 🎬 Movie | Predator (1987) |
+| 📺 Show | Tom and Jerry |
+| 🎵 Music | Rock, Metal, and related genres |
+| 📚 Book | Horus Rising (The Horus Heresy, Book 1) — Dan Abnett |
+| 🍫 Fuel | Chocolate |
+
 ---
 
 ## 🌐 Socials
