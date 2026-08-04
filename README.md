@@ -7,6 +7,7 @@ I like understanding how systems actually work — from OOP fundamentals and dat
 
 </div>
 
+---
 
 ## ⭐ Favorites
 | Category | Pick |
@@ -17,6 +18,16 @@ I like understanding how systems actually work — from OOP fundamentals and dat
 | 🎵 Music | Rock, Metal, and related genres |
 | 📚 Book | Horus Rising (The Horus Heresy, Book 1) — Dan Abnett |
 | 🍫 Fuel | Chocolate |
+
+---
+
+## 🎮 Currently Playing
+![Skyrim](https://img.shields.io/badge/-The%20Elder%20Scrolls%20V%3A%20Skyrim-CC9E4C?style=for-the-badge&logo=steam&logoColor=white)
+![Neverness to Everness](https://img.shields.io/badge/-Neverness%20to%20Everness-8B5FBF?style=for-the-badge)
+![Umamusume Pretty Derby](https://img.shields.io/badge/-Umamusume%20Pretty%20Derby-FF6FA5?style=for-the-badge&logo=android&logoColor=white)
+![Oblivion](https://img.shields.io/badge/-The%20Elder%20Scrolls%20IV%3A%20Oblivion-4A7A3D?style=for-the-badge&logo=steam&logoColor=white)
+![Need for Speed Heat](https://img.shields.io/badge/-Need%20for%20Speed%20Heat-FF6B00?style=for-the-badge&logo=ea&logoColor=white)
+![Isonzo](https://img.shields.io/badge/-Isonzo-5C4A3A?style=for-the-badge&logo=steam&logoColor=white)
 
 ---
 
