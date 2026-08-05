@@ -3,8 +3,7 @@
 # 👋 About Me
 
 **Computer Engineering student building things from the ground up.**
-I like understanding how systems actually work — from OOP fundamentals and databases to full applications — before reaching for frameworks. Currently exploring full-stack development, AI-integrated tools, and game logic while studying at UET Lahore.
-
+I like understanding how systems actually work, from OOP fundamentals and databases to full applications, before reaching for frameworks. I am Currently exploring full-stack development, AI-integrated tools, and game logic while studying at UET Lahore. LOVE OOP!. 
 </div>
 
 ---
