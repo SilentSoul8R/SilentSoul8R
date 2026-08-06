@@ -38,8 +38,7 @@ I like understanding how systems actually work, from OOP fundamentals and databa
 ---
 
 ## 💻 Tech Stack
-
-
+ 
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -50,13 +49,17 @@ I like understanding how systems actually work, from OOP fundamentals and databa
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
+ 
+---
+ 
+## 🛠️ IDEs & Tools
+ 
 ![Visual Studio](https://img.shields.io/badge/VISUAL%20STUDIO-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PYCHARM-21D789?style=for-the-badge&logo=pycharm&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/INTELLIJ%20IDEA-A62E7A?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![CLion](https://img.shields.io/badge/CLION-21D789?style=for-the-badge&logo=clion&logoColor=white)
 ![Rider](https://img.shields.io/badge/RIDER-FF328F?style=for-the-badge&logo=rider&logoColor=white)
-
-
+ 
 ---
 
 ## 📊 GitHub Stats
