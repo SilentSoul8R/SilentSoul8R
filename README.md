@@ -64,20 +64,66 @@ I like understanding how systems actually work, from OOP fundamentals and databa
 ![Rider](https://img.shields.io/badge/RIDER-FF328F?style=for-the-badge&logo=rider&logoColor=white)
  
 ---
-## 📌 Pinned Projects
 
-<div align="center">
+## 🚀 Projects
 
-<a href="https://github.com/SilentSoul8R/Project_WarpDrive"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SilentSoul8R&repo=Project_WarpDrive&theme=radical" /></a>
-<a href="https://github.com/SilentSoul8R/Project_ChromaDrive"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SilentSoul8R&repo=Project_ChromaDrive&theme=radical" /></a>
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/SilentSoul8R/Java_Banking_System_WithDB"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SilentSoul8R&repo=Java_Banking_System_WithDB&theme=radical" /></a>
-<a href="https://github.com/SilentSoul8R/Banking-System-Csharp-WinForms"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SilentSoul8R&repo=Banking-System-Csharp-WinForms&theme=radical" /></a>
+### 🚀 [Project WarpDrive](https://github.com/SilentSoul8R/Project_WarpDrive)
+_Warp Drive activated, Destination: Planet H.T.M.L!._
 
-<a href="https://github.com/Faizan0994/gps-navigator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizan0994&repo=gps-navigator&theme=radical" /></a>
-<a href="https://github.com/SilentSoul8R/Pacman-Basic"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SilentSoul8R&repo=Pacman-Basic&theme=radical" /></a>
+`Tag1` `Tag2` `Tag3`
 
-</div>
+</td>
+<td width="50%" valign="top">
+
+### 🎨 [Project ChromaDrive](https://github.com/SilentSoul8R/Project_ChromaDrive)
+_Chromadrive online, Destination: Planet C.S.S, Color and Style Sector!_
+
+`Tag1` `Tag2` `Tag3`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏦 [Java Banking System (with DB)](https://github.com/SilentSoul8R/Java_Banking_System_WithDB)
+_A university Database Systems lab project implementing a full-stack Java Swing banking application backed by a MySQL relational database._
+
+
+`Java` `JDBC` `MySQL`
+
+</td>
+<td width="50%" valign="top">
+
+### 🏦 [Banking System (C# WinForms)](https://github.com/SilentSoul8R/Banking-System-Csharp-WinForms)
+_A desktop banking application built with C# and Windows Forms (.NET), providing a simple graphical interface to create, deposit, withdraw, edit, remove, and display bank accounts, all backed by flat-file persistence._
+
+`C#` `.NET` `WinForms`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🗺️ [GPS Navigator](https://github.com/Faizan0994/gps-navigator)
+_A C++ project that uses dijkstra algorithm to calculate shortest paths to destinations._
+
+`Tag1` `Tag2` `Tag3`
+
+</td>
+<td width="50%" valign="top">
+
+### 👻 [Pacman (Basic)](https://github.com/SilentSoul8R/Pacman-Basic)
+_A terminal-based PacMan clone written in Java. The game renders the maze, PacMan, and two ghosts directly in the console, with real-time keyboard input captured through a small Swing helper window (so no Enter key is required)._
+
+`Tag1` `Tag2` `Tag3`
+
+</td>
+</tr>
+</table>
 
 ---
 
