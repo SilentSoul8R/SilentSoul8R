@@ -108,7 +108,6 @@ I like understanding how systems actually work, from OOP fundamentals and databa
  
 <img src="https://raw.githubusercontent.com/SilentSoul8R/SilentSoul8R/main/assets/divider.svg" width="100%" height="4"/>
 
-<div align="center">
 
 <div align="center">
 
@@ -121,7 +120,7 @@ I like understanding how systems actually work, from OOP fundamentals and databa
 <th align="center">Stack</th>
 </tr>
 <tr>
-<td align="center"><b><a href="https://github.com/SilentSoul8R/Project_WarpDrive">🚀 WarpDrive</a></b></td>
+<td align="center"><a href="https://github.com/SilentSoul8R/Project_WarpDrive"><img src="https://img.shields.io/badge/🚀_WarpDrive-8A0057?style=for-the-badge&logoColor=white"/></a></td>
 <td align="center">Warp Drive activated, Destination: Planet H.T.M.L!</td>
 <td align="center">
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/><br/>
@@ -129,7 +128,7 @@ I like understanding how systems actually work, from OOP fundamentals and databa
 </td>
 </tr>
 <tr>
-<td align="center"><b><a href="https://github.com/SilentSoul8R/Project_ChromaDrive">🎨 ChromaDrive</a></b></td>
+<td align="center"><a href="https://github.com/SilentSoul8R/Project_ChromaDrive"><img src="https://img.shields.io/badge/🎨_ChromaDrive-8A0057?style=for-the-badge&logoColor=white"/></a></td>
 <td align="center">Chromadrive online, Destination: Planet C.S.S, Color and Style Sector!</td>
 <td align="center">
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/><br/>
@@ -137,7 +136,7 @@ I like understanding how systems actually work, from OOP fundamentals and databa
 </td>
 </tr>
 <tr>
-<td align="center"><b><a href="https://github.com/SilentSoul8R/Java_Banking_System_WithDB">🏦 Java Banking (DB)</a></b></td>
+<td align="center"><a href="https://github.com/SilentSoul8R/Java_Banking_System_WithDB"><img src="https://img.shields.io/badge/🏦_Java_Banking-8A0057?style=for-the-badge&logoColor=white"/></a></td>
 <td align="center">Full-stack Java Swing banking app backed by a MySQL relational database.</td>
 <td align="center">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/><br/>
@@ -145,7 +144,7 @@ I like understanding how systems actually work, from OOP fundamentals and databa
 </td>
 </tr>
 <tr>
-<td align="center"><b><a href="https://github.com/SilentSoul8R/Banking-System-Csharp-WinForms">🏦 Banking (WinForms)</a></b></td>
+<td align="center"><a href="https://github.com/SilentSoul8R/Banking-System-Csharp-WinForms"><img src="https://img.shields.io/badge/🏦_Banking_WinForms-8A0057?style=for-the-badge&logoColor=white"/></a></td>
 <td align="center">Desktop banking app in C# WinForms — create, deposit, withdraw, edit, remove accounts with flat-file persistence.</td>
 <td align="center">
 <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/><br/>
@@ -153,20 +152,21 @@ I like understanding how systems actually work, from OOP fundamentals and databa
 </td>
 </tr>
 <tr>
-<td align="center"><b><a href="https://github.com/Faizan0994/gps-navigator">🗺️ GPS Navigator</a></b></td>
+<td align="center"><a href="https://github.com/Faizan0994/gps-navigator"><img src="https://img.shields.io/badge/🗺️_GPS_Navigator-8A0057?style=for-the-badge&logoColor=white"/></a></td>
 <td align="center">Uses Dijkstra's algorithm to calculate shortest paths to destinations.</td>
 <td align="center">
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
 </td>
 </tr>
 <tr>
-<td align="center"><b><a href="https://github.com/SilentSoul8R/Pacman-Basic">👻 Pacman (Basic)</a></b></td>
+<td align="center"><a href="https://github.com/SilentSoul8R/Pacman-Basic"><img src="https://img.shields.io/badge/👻_Pacman-8A0057?style=for-the-badge&logoColor=white"/></a></td>
 <td align="center">Terminal-based Pac-Man clone. Renders maze, Pac-Man, and ghosts live, with real-time keyboard input via a Swing helper window.</td>
 <td align="center">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
 </td>
 </tr>
 </table>
+
 
 </div>
 
