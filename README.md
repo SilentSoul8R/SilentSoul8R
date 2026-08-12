@@ -33,10 +33,6 @@ I like understanding how systems actually work, from OOP fundamentals and databa
 <td align="center">The Elder Scrolls V: Skyrim</td>
 </tr>
 <tr>
-<td align="center">🐎 Umamusume Main</td>
-<td align="center">Special Week</td>
-</tr>
-<tr>
 <td align="center">🎬 Movie</td>
 <td align="center">Predator (1987)</td>
 </tr>
