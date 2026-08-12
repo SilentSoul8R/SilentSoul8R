@@ -64,6 +64,23 @@ I like understanding how systems actually work, from OOP fundamentals and databa
 ![Rider](https://img.shields.io/badge/RIDER-FF328F?style=for-the-badge&logo=rider&logoColor=white)
  
 ---
+## 📌 Pinned Projects
+
+<div align="center">
+
+<a href="https://github.com/SilentSoul8R/Project_WarpDrive"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SilentSoul8R&repo=Project_WarpDrive&theme=radical" /></a>
+<a href="https://github.com/SilentSoul8R/Project_ChromaDrive"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SilentSoul8R&repo=Project_ChromaDrive&theme=radical" /></a>
+
+<a href="https://github.com/SilentSoul8R/Java_Banking_System_WithDB"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SilentSoul8R&repo=Java_Banking_System_WithDB&theme=radical" /></a>
+<a href="https://github.com/SilentSoul8R/Banking-System-Csharp-WinForms"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SilentSoul8R&repo=Banking-System-Csharp-WinForms&theme=radical" /></a>
+
+<a href="https://github.com/Faizan0994/gps-navigator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizan0994&repo=gps-navigator&theme=radical" /></a>
+<a href="https://github.com/SilentSoul8R/Pacman-Basic"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SilentSoul8R&repo=Pacman-Basic&theme=radical" /></a>
+
+</div>
+
+---
+
 
 ## 📊 GitHub Stats
 
