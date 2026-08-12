@@ -12,11 +12,12 @@
 
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/> About Me
 
+
 **Computer Engineering student building things from the ground up.**
 I like understanding how systems actually work, from OOP fundamentals and databases to full applications, before reaching for frameworks. I am Currently exploring full-stack development, AI-integrated tools, and game logic while studying at UET Lahore. LOVE OOP!. 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:8A0057,100:00F0FF&height=4&section=footer&animation=fadeIn" width="100%"/>
 
 ## ⭐ Favorites
 
