@@ -74,7 +74,7 @@ I like understanding how systems actually work, from OOP fundamentals and databa
 ### 🚀 [Project WarpDrive](https://github.com/SilentSoul8R/Project_WarpDrive)
 _Warp Drive activated, Destination: Planet H.T.M.L!._
 
-`Tag1` `Tag2` `Tag3`
+`HTML` `CSS` 
 
 </td>
 <td width="50%" valign="top">
@@ -82,7 +82,7 @@ _Warp Drive activated, Destination: Planet H.T.M.L!._
 ### 🎨 [Project ChromaDrive](https://github.com/SilentSoul8R/Project_ChromaDrive)
 _Chromadrive online, Destination: Planet C.S.S, Color and Style Sector!_
 
-`Tag1` `Tag2` `Tag3`
+`HTML` `CSS` 
 
 </td>
 </tr>
@@ -111,7 +111,7 @@ _A desktop banking application built with C# and Windows Forms (.NET), providing
 ### 🗺️ [GPS Navigator](https://github.com/Faizan0994/gps-navigator)
 _A C++ project that uses dijkstra algorithm to calculate shortest paths to destinations._
 
-`Tag1` `Tag2` `Tag3`
+
 
 </td>
 <td width="50%" valign="top">
@@ -119,7 +119,7 @@ _A C++ project that uses dijkstra algorithm to calculate shortest paths to desti
 ### 👻 [Pacman (Basic)](https://github.com/SilentSoul8R/Pacman-Basic)
 _A terminal-based PacMan clone written in Java. The game renders the maze, PacMan, and two ghosts directly in the console, with real-time keyboard input captured through a small Swing helper window (so no Enter key is required)._
 
-`Tag1` `Tag2` `Tag3`
+`Pacman` `Swing-gui` `Java`
 
 </td>
 </tr>
