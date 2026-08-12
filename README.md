@@ -203,13 +203,13 @@ I like understanding how systems actually work, from OOP fundamentals and databa
 <img src="https://raw.githubusercontent.com/SilentSoul8R/SilentSoul8R/main/assets/divider.svg" width="100%" height="4"/>
 
 ## 🐍 Contribution Snake
-
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SilentSoul8R/SilentSoul8R/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SilentSoul8R/SilentSoul8R/output/github-contribution-grid-snake.svg" />
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SilentSoul8R/SilentSoul8R/output/github-contribution-grid-snake.svg" />
 </picture>
-
+</div>
 <img src="https://raw.githubusercontent.com/SilentSoul8R/SilentSoul8R/main/assets/divider.svg" width="100%" height="4"/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A0057,100:000000&height=100&section=footer&animation=twinkling" width="100%"/>
