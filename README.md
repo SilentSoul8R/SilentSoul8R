@@ -17,7 +17,7 @@
 I like understanding how systems actually work, from OOP fundamentals and databases to full applications, before reaching for frameworks. I am Currently exploring full-stack development, AI-integrated tools, and game logic while studying at UET Lahore. LOVE OOP!. 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:8A0057,100:00F0FF&height=4&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://raw.githubusercontent.com/SilentSoul8R/SilentSoul8R/main/assets/divider.svg" width="100%" height="4"/>
 
 ## ⭐ Favorites
 
@@ -30,7 +30,7 @@ I like understanding how systems actually work, from OOP fundamentals and databa
 | 📚 Book | Horus Rising (The Horus Heresy, Book 1) — Dan Abnett |
 | 🍫 Fuel | Chocolate |
 
----
+<img src="https://raw.githubusercontent.com/SilentSoul8R/SilentSoul8R/main/assets/divider.svg" width="100%" height="4"/>
 
 ## 🎮 Currently Playing
 ![Skyrim](https://img.shields.io/badge/-The%20Elder%20Scrolls%20V%3A%20Skyrim-CC9E4C?style=for-the-badge&logo=steam&logoColor=white)
@@ -40,7 +40,7 @@ I like understanding how systems actually work, from OOP fundamentals and databa
 ![Need for Speed Heat](https://img.shields.io/badge/-Need%20for%20Speed%20Heat-FF6B00?style=for-the-badge&logo=ea&logoColor=white)
 ![Isonzo](https://img.shields.io/badge/-Isonzo-5C4A3A?style=for-the-badge&logo=steam&logoColor=white)
 
----
+<img src="https://raw.githubusercontent.com/SilentSoul8R/SilentSoul8R/main/assets/divider.svg" width="100%" height="4"/>
 
 ## 🌐 Socials
 
@@ -49,7 +49,7 @@ I like understanding how systems actually work, from OOP fundamentals and databa
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:abdullahsanghera4@outlook.com)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullahsinghera2@gmail.com)
 
----
+<img src="https://raw.githubusercontent.com/SilentSoul8R/SilentSoul8R/main/assets/divider.svg" width="100%" height="4"/>
 
 ## 💻 Tech Stack
  
@@ -65,7 +65,7 @@ I like understanding how systems actually work, from OOP fundamentals and databa
 ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
  
----
+<img src="https://raw.githubusercontent.com/SilentSoul8R/SilentSoul8R/main/assets/divider.svg" width="100%" height="4"/>
  
 ## 🛠️ IDEs & Tools
  
@@ -75,7 +75,7 @@ I like understanding how systems actually work, from OOP fundamentals and databa
 ![CLion](https://img.shields.io/badge/CLION-21D789?style=for-the-badge&logo=clion&logoColor=white)
 ![Rider](https://img.shields.io/badge/RIDER-FF328F?style=for-the-badge&logo=rider&logoColor=white)
  
----
+<img src="https://raw.githubusercontent.com/SilentSoul8R/SilentSoul8R/main/assets/divider.svg" width="100%" height="4"/>
 
 ## 🚀 Projects
 
@@ -137,7 +137,7 @@ _A terminal-based PacMan clone written in Java. The game renders the maze, PacMa
 </tr>
 </table>
 
----
+<img src="https://raw.githubusercontent.com/SilentSoul8R/SilentSoul8R/main/assets/divider.svg" width="100%" height="4"/>
 
 
 ## 📊 GitHub Stats
@@ -152,7 +152,7 @@ _A terminal-based PacMan clone written in Java. The game renders the maze, PacMa
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/SilentSoul8R/SilentSoul8R/main/assets/divider.svg" width="100%" height="4"/>
 
 <div align="center">
 
@@ -161,7 +161,7 @@ _A terminal-based PacMan clone written in Java. The game renders the maze, PacMa
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/SilentSoul8R/SilentSoul8R/main/assets/divider.svg" width="100%" height="4"/>
 
 ## 🚀 Currently Learning
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -171,7 +171,7 @@ _A terminal-based PacMan clone written in Java. The game renders the maze, PacMa
 ![Unity](https://img.shields.io/badge/UNITY-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Blender](https://img.shields.io/badge/BLENDER-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
----
+<img src="https://raw.githubusercontent.com/SilentSoul8R/SilentSoul8R/main/assets/divider.svg" width="100%" height="4"/>
 
 ## 🐍 Contribution Snake
 
@@ -181,6 +181,6 @@ _A terminal-based PacMan clone written in Java. The game renders the maze, PacMa
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SilentSoul8R/SilentSoul8R/output/github-contribution-grid-snake.svg" />
 </picture>
 
----
+<img src="https://raw.githubusercontent.com/SilentSoul8R/SilentSoul8R/main/assets/divider.svg" width="100%" height="4"/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A0057,100:000000&height=100&section=footer&animation=twinkling" width="100%"/>
