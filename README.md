@@ -181,6 +181,14 @@ I like understanding how systems actually work, from OOP fundamentals and databa
 
 
 
+<div align="center">
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SilentSoul8R&theme=react-dark&hide_border=true&color=00F0FF&line=FF2079&point=ffffff&area=true&area_color=8A0057" alt="Activity Graph" width="90%"/>
+
+</div>
+
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SilentSoul8R&theme=radical&hide_border=true" alt="GitHub Streak" />
@@ -190,6 +198,7 @@ I like understanding how systems actually work, from OOP fundamentals and databa
 <img src="https://raw.githubusercontent.com/SilentSoul8R/SilentSoul8R/main/assets/divider.svg" width="100%" height="4"/>
 
 <div align="center">
+<br>
 
 > *"It's not a bug, it's an undocumented feature."* 
 > — Anonymous 
