@@ -181,3 +181,5 @@ _A terminal-based PacMan clone written in Java. The game renders the maze, PacMa
 </picture>
 
 ---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A0057,100:000000&height=100&section=footer&animation=twinkling" width="100%"/>
