@@ -108,65 +108,67 @@ I like understanding how systems actually work, from OOP fundamentals and databa
  
 <img src="https://raw.githubusercontent.com/SilentSoul8R/SilentSoul8R/main/assets/divider.svg" width="100%" height="4"/>
 
+<div align="center">
+
+<div align="center">
+
 ## 🚀 Projects
 
-<table width="100%">
+<table>
 <tr>
-<td width="50%" valign="top">
-
-### 🚀 [Project WarpDrive](https://github.com/SilentSoul8R/Project_WarpDrive)
-_Warp Drive activated, Destination: Planet H.T.M.L!._
-
-`HTML` `CSS` 
-
-</td>
-<td width="50%" valign="top">
-
-### 🎨 [Project ChromaDrive](https://github.com/SilentSoul8R/Project_ChromaDrive)
-_Chromadrive online, Destination: Planet C.S.S, Color and Style Sector!_
-
-`HTML` `CSS` 
-
+<th align="center">Project</th>
+<th align="center">Description</th>
+<th align="center">Stack</th>
+</tr>
+<tr>
+<td align="center"><b><a href="https://github.com/SilentSoul8R/Project_WarpDrive">🚀 WarpDrive</a></b></td>
+<td align="center">Warp Drive activated, Destination: Planet H.T.M.L!</td>
+<td align="center">
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-### 🏦 [Java Banking System (with DB)](https://github.com/SilentSoul8R/Java_Banking_System_WithDB)
-_A university Database Systems lab project implementing a full-stack Java Swing banking application backed by a MySQL relational database._
-
-
-`Java` `JDBC` `MySQL`
-
-</td>
-<td width="50%" valign="top">
-
-### 🏦 [Banking System (C# WinForms)](https://github.com/SilentSoul8R/Banking-System-Csharp-WinForms)
-_A desktop banking application built with C# and Windows Forms (.NET), providing a simple graphical interface to create, deposit, withdraw, edit, remove, and display bank accounts, all backed by flat-file persistence._
-
-`C#` `.NET` `WinForms`
-
+<td align="center"><b><a href="https://github.com/SilentSoul8R/Project_ChromaDrive">🎨 ChromaDrive</a></b></td>
+<td align="center">Chromadrive online, Destination: Planet C.S.S, Color and Style Sector!</td>
+<td align="center">
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-### 🗺️ [GPS Navigator](https://github.com/Faizan0994/gps-navigator)
-_A C++ project that uses dijkstra algorithm to calculate shortest paths to destinations._
-
-
-
+<td align="center"><b><a href="https://github.com/SilentSoul8R/Java_Banking_System_WithDB">🏦 Java Banking (DB)</a></b></td>
+<td align="center">Full-stack Java Swing banking app backed by a MySQL relational database.</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 </td>
-<td width="50%" valign="top">
-
-### 👻 [Pacman (Basic)](https://github.com/SilentSoul8R/Pacman-Basic)
-_A terminal-based PacMan clone written in Java. The game renders the maze, PacMan, and two ghosts directly in the console, with real-time keyboard input captured through a small Swing helper window (so no Enter key is required)._
-
-`Pacman` `Swing-gui` `Java`
-
+</tr>
+<tr>
+<td align="center"><b><a href="https://github.com/SilentSoul8R/Banking-System-Csharp-WinForms">🏦 Banking (WinForms)</a></b></td>
+<td align="center">Desktop banking app in C# WinForms — create, deposit, withdraw, edit, remove accounts with flat-file persistence.</td>
+<td align="center">
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b><a href="https://github.com/Faizan0994/gps-navigator">🗺️ GPS Navigator</a></b></td>
+<td align="center">Uses Dijkstra's algorithm to calculate shortest paths to destinations.</td>
+<td align="center">
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b><a href="https://github.com/SilentSoul8R/Pacman-Basic">👻 Pacman (Basic)</a></b></td>
+<td align="center">Terminal-based Pac-Man clone. Renders maze, Pac-Man, and ghosts live, with real-time keyboard input via a Swing helper window.</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
 </td>
 </tr>
 </table>
+
+</div>
 
 <img src="https://raw.githubusercontent.com/SilentSoul8R/SilentSoul8R/main/assets/divider.svg" width="100%" height="4"/>
 
