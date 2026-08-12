@@ -19,16 +19,46 @@ I like understanding how systems actually work, from OOP fundamentals and databa
 
 <img src="https://raw.githubusercontent.com/SilentSoul8R/SilentSoul8R/main/assets/divider.svg" width="100%" height="4"/>
 
-## ⭐ Favorites
+<div align="center">
 
-| Category | Pick |
-|---|---|
-| 🎮 Game | The Elder Scrolls V: Skyrim |
-| 🎬 Movie | Predator (1987) |
-| 📺 Show | Tom and Jerry |
-| 🎵 Music | Rock, Metal, and related genres |
-| 📚 Book | Horus Rising (The Horus Heresy, Book 1) — Dan Abnett |
-| 🍫 Fuel | Chocolate |
+## <img src="https://raw.githubusercontent.com/SilentSoul8R/SilentSoul8R/main/assets/diamond_lights.svg" width="80" valign="middle"/> Favorites <img src="https://raw.githubusercontent.com/SilentSoul8R/SilentSoul8R/main/assets/diamond_lights.svg" width="80" valign="middle"/>
+
+<table>
+<tr>
+<th align="center">Category</th>
+<th align="center">Pick</th>
+</tr>
+<tr>
+<td align="center">🎮 Game</td>
+<td align="center">The Elder Scrolls V: Skyrim</td>
+</tr>
+<tr>
+<td align="center">🐎 Umamusume Main</td>
+<td align="center">Special Week</td>
+</tr>
+<tr>
+<td align="center">🎬 Movie</td>
+<td align="center">Predator (1987)</td>
+</tr>
+<tr>
+<td align="center">📺 Show</td>
+<td align="center">Tom and Jerry</td>
+</tr>
+<tr>
+<td align="center">🎵 Music</td>
+<td align="center">Rock, Metal, and related genres</td>
+</tr>
+<tr>
+<td align="center">📚 Book</td>
+<td align="center">Horus Rising (The Horus Heresy, Book 1) — Dan Abnett</td>
+</tr>
+<tr>
+<td align="center">🍫 Fuel</td>
+<td align="center">Chocolate</td>
+</tr>
+</table>
+
+</div>
 
 <img src="https://raw.githubusercontent.com/SilentSoul8R/SilentSoul8R/main/assets/divider.svg" width="100%" height="4"/>
 
