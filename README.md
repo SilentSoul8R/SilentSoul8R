@@ -17,6 +17,12 @@
 I like understanding how systems actually work, from OOP fundamentals and databases to full applications, before reaching for frameworks. I am Currently exploring full-stack development, AI-integrated tools, and game logic while studying at UET Lahore. LOVE OOP!. 
 </div>
 
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=SilentSoul8R&label=Profile%20Views&color=8A0057&style=for-the-badge" alt="Profile Views"/>
+
+</div>
+
 <img src="https://raw.githubusercontent.com/SilentSoul8R/SilentSoul8R/main/assets/divider.svg" width="100%" height="4"/>
 
 <div align="center">
