@@ -58,6 +58,11 @@ I like understanding how systems actually work, from OOP fundamentals and databa
 </tr>
 </table>
 
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/SilentSoul8R/SilentSoul8R/main/assets/diamond_lights.svg" width="200"/>
+
+</div>
 </div>
 
 <img src="https://raw.githubusercontent.com/SilentSoul8R/SilentSoul8R/main/assets/divider.svg" width="100%" height="4"/>
