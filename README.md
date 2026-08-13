@@ -231,5 +231,3 @@ I like understanding how systems actually work, from OOP fundamentals and databa
 </picture>
 </div>
 <img src="https://raw.githubusercontent.com/SilentSoul8R/SilentSoul8R/main/assets/divider.svg" width="100%" height="4"/>
-
-<img src="https://raw.githubusercontent.com/SilentSoul8R/SilentSoul8R/main/assets/hazard_footer.svg" width="100%"/>
