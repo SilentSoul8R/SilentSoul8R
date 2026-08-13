@@ -65,7 +65,12 @@ I like understanding how systems actually work, from OOP fundamentals and databa
 
 <img src="https://raw.githubusercontent.com/SilentSoul8R/SilentSoul8R/main/assets/divider.svg" width="100%" height="4"/>
 
-## 🎮 Currently Playing
+<div align="center">
+
+## <img src="https://raw.githubusercontent.com/SilentSoul8R/SilentSoul8R/main/assets/badge_currently_playing.svg" height="32"/>
+
+</div>
+
 ![Skyrim](https://img.shields.io/badge/-The%20Elder%20Scrolls%20V%3A%20Skyrim-CC9E4C?style=for-the-badge&logo=steam&logoColor=white)
 ![Neverness to Everness](https://img.shields.io/badge/-Neverness%20to%20Everness-8B5FBF?style=for-the-badge)
 ![Umamusume Pretty Derby](https://img.shields.io/badge/-Umamusume%20Pretty%20Derby-FF6FA5?style=for-the-badge&logo=android&logoColor=white)
