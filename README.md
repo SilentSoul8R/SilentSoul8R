@@ -147,7 +147,7 @@ I like understanding how systems actually work, from OOP fundamentals and databa
 </tr>
 <tr>
 <td align="center"><a href="https://github.com/SilentSoul8R/Banking-System-Csharp-WinForms"><img src="https://img.shields.io/badge/🏦_Banking_WinForms-8A0057?style=for-the-badge&logoColor=white"/></a></td>
-<td align="center">Desktop banking app in C# WinForms — create, deposit, withdraw, edit, remove accounts with flat-file persistence.</td>
+<td align="center">Desktop banking app in C# WinForms. Allows us to create, deposit, withdraw, edit, remove accounts with flat-file persistence.</td>
 <td align="center">
 <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
