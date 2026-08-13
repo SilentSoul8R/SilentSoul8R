@@ -1,34 +1,49 @@
-<svg width="620" height="84" viewBox="0 0 620 84" xmlns="http://www.w3.org/2000/svg">
+<svg width="676" height="84" viewBox="0 0 676 84" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bg9" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#000000"/>
       <stop offset="100%" stop-color="#1a0012"/>
     </linearGradient>
     <clipPath id="inner9">
-      <rect x="7" y="10" width="606" height="64"/>
+      <rect x="7" y="10" width="662" height="64"/>
     </clipPath>
   </defs>
 
-  <rect x="1" y="1" width="618" height="82" rx="3" fill="url(#bg9)" stroke="#00F0FF" stroke-width="2"/>
-  <rect x="7" y="10" width="606" height="64" fill="none" stroke="#00F0FF" stroke-width="0.6" opacity="0.35"/>
+  <rect x="1" y="1" width="674" height="82" rx="3" fill="url(#bg9)" stroke="#00F0FF" stroke-width="2"/>
+  <rect x="7" y="10" width="662" height="64" fill="none" stroke="#00F0FF" stroke-width="0.6" opacity="0.35"/>
 
   <!-- scanning highlight sweep -->
   <g clip-path="url(#inner9)">
     <rect x="-60" y="10" width="60" height="64" fill="#00F0FF" opacity="0.18">
-      <animate attributeName="x" values="-60;620" dur="3.1s" begin="1.2s" repeatCount="indefinite"/>
+      <animate attributeName="x" values="-60;676" dur="3.1s" begin="1.2s" repeatCount="indefinite"/>
     </rect>
   </g>
 
-  <!-- label with block-character decoration, vertically centered on the actual glyph box
-       (dominant-baseline handles this correctly regardless of font metrics, so the
-       tall block glyphs can't clip the frame the way a fixed baseline guess did) -->
-  <text x="310" y="42.0" text-anchor="middle" dominant-baseline="central"
+  <!-- decorative bars, drawn rects sized to fit the frame exactly (not text glyphs) -->
+  <g fill="#00F0FF">
+    <rect x="20"   y="33.0"  width="5" height="18"/>
+    <rect x="30"  y="25.0" width="5" height="34"/>
+    <rect x="40"  y="33.0"  width="5" height="18"/>
+  </g>
+  <g fill="#00F0FF">
+    <rect x="631"  y="33.0"  width="5" height="18"/>
+    <rect x="641" y="25.0" width="5" height="34"/>
+    <rect x="651" y="33.0"  width="5" height="18"/>
+  </g>
+
+  <!-- label, vertically centered on its actual glyph box -->
+  <text x="338" y="42.0" text-anchor="middle" dominant-baseline="central"
         font-family="Fira Code, monospace" font-size="30"
         font-weight="700" fill="#00F0FF" letter-spacing="1.5">
-    &#9619;&#9619;&#9619; CONTRIB_SNAKE.py &#9619;&#9619;&#9619;
+    CONTRIB_SNAKE.py
     <animate attributeName="opacity"
       values="1;1;0.3;1;1;1;0.15;1"
       keyTimes="0;0.4;0.41;0.43;0.7;0.71;0.72;1"
       dur="3.4s" begin="0.75s" repeatCount="indefinite"/>
   </text>
+
+  <!-- blinking cursor block -->
+  <rect x="610" y="25.0" width="12" height="34" fill="#00F0FF">
+    <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.5;0.5;1;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
 </svg>
