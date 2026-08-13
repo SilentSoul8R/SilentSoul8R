@@ -1,36 +1,34 @@
-<svg width="572" height="64" viewBox="0 0 572 64" xmlns="http://www.w3.org/2000/svg">
+<svg width="720" height="84" viewBox="0 0 720 84" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bg8" x1="0%" y1="0%" x2="100%" y2="0%">
+    <linearGradient id="bg2" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#000000"/>
       <stop offset="100%" stop-color="#1a0012"/>
     </linearGradient>
-    <clipPath id="inner8">
-      <rect x="7" y="14" width="558" height="36"/>
+    <clipPath id="inner2">
+      <rect x="7" y="10" width="706" height="64"/>
     </clipPath>
   </defs>
- 
-  <rect x="1" y="1" width="570" height="62" rx="3" fill="url(#bg8)" stroke="#00F0FF" stroke-width="2"/>
-  <rect x="7" y="14" width="558" height="36" fill="none" stroke="#00F0FF" stroke-width="0.6" opacity="0.35"/>
- 
+
+  <rect x="1" y="1" width="718" height="82" rx="3" fill="url(#bg2)" stroke="#00F0FF" stroke-width="2"/>
+  <rect x="7" y="10" width="706" height="64" fill="none" stroke="#00F0FF" stroke-width="0.6" opacity="0.35"/>
+
   <!-- scanning highlight sweep -->
-  <g clip-path="url(#inner8)">
-    <rect x="-60" y="14" width="60" height="36" fill="#00F0FF" opacity="0.18">
-      <animate attributeName="x" values="-60;572" dur="2.6s" begin="0.8999999999999999s" repeatCount="indefinite"/>
+  <g clip-path="url(#inner2)">
+    <rect x="-60" y="10" width="60" height="64" fill="#00F0FF" opacity="0.18">
+      <animate attributeName="x" values="-60;720" dur="3.6s" begin="0.6s" repeatCount="indefinite"/>
     </rect>
   </g>
- 
-  <!-- flickering label text -->
-  <text x="286" y="40" text-anchor="middle" font-family="Fira Code, monospace" font-size="24"
-        font-weight="700" fill="#00F0FF" letter-spacing="2">
-    &#9619;&#9619;&#9619; CURRENTLY_LEARNING.trg &#9619;&#9619;&#9619;
+
+  <!-- label with block-character decoration, vertically centered on the actual glyph box
+       (dominant-baseline handles this correctly regardless of font metrics, so the
+       tall block glyphs can't clip the frame the way a fixed baseline guess did) -->
+  <text x="360" y="42.0" text-anchor="middle" dominant-baseline="central"
+        font-family="Fira Code, monospace" font-size="30"
+        font-weight="700" fill="#00F0FF" letter-spacing="1.5">
+    &#9619;&#9619;&#9619; CURRENTLY_PLAYING.exe &#9619;&#9619;&#9619;
     <animate attributeName="opacity"
       values="1;1;0.3;1;1;1;0.15;1"
       keyTimes="0;0.4;0.41;0.43;0.7;0.71;0.72;1"
       dur="4.2s" begin="0.5s" repeatCount="indefinite"/>
   </text>
- 
-  <!-- blinking cursor block, matched to text height -->
-  <rect x="540" y="20" width="12" height="24" fill="#00F0FF">
-    <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.5;0.5;1;1" dur="1s" repeatCount="indefinite"/>
-  </rect>
 </svg>
