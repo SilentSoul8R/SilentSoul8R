@@ -93,7 +93,11 @@ I like understanding how systems actually work, from OOP fundamentals and databa
 
 <img src="https://raw.githubusercontent.com/SilentSoul8R/SilentSoul8R/main/assets/divider.svg" width="100%" height="4"/>
 
-## 💻 Tech Stack
+<div align="center">
+
+## <img src="https://raw.githubusercontent.com/SilentSoul8R/SilentSoul8R/main/assets/badge_tech_stack.svg" height="32"/>
+
+</div>
  
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -109,7 +113,11 @@ I like understanding how systems actually work, from OOP fundamentals and databa
  
 <img src="https://raw.githubusercontent.com/SilentSoul8R/SilentSoul8R/main/assets/divider.svg" width="100%" height="4"/>
  
-## 🛠️ IDEs & Tools
+<div align="center">
+
+## <img src="https://raw.githubusercontent.com/SilentSoul8R/SilentSoul8R/main/assets/badge_ides_tools.svg" height="32"/>
+
+</div>
  
 ![Visual Studio](https://img.shields.io/badge/VISUAL%20STUDIO-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PYCHARM-21D789?style=for-the-badge&logo=pycharm&logoColor=white)
@@ -122,7 +130,11 @@ I like understanding how systems actually work, from OOP fundamentals and databa
 
 <div align="center">
 
-## 🚀 Projects
+<div align="center">
+
+## <img src="https://raw.githubusercontent.com/SilentSoul8R/SilentSoul8R/main/assets/badge_projects.svg" height="32"/>
+
+</div>
 
 <table>
 <tr>
@@ -224,7 +236,12 @@ I like understanding how systems actually work, from OOP fundamentals and databa
 
 <img src="https://raw.githubusercontent.com/SilentSoul8R/SilentSoul8R/main/assets/divider.svg" width="100%" height="4"/>
 
-## 🚀 Currently Learning
+<div align="center">
+
+## <img src="https://raw.githubusercontent.com/SilentSoul8R/SilentSoul8R/main/assets/badge_currently_learning.svg" height="32"/>
+
+</div>
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -234,7 +251,12 @@ I like understanding how systems actually work, from OOP fundamentals and databa
 
 <img src="https://raw.githubusercontent.com/SilentSoul8R/SilentSoul8R/main/assets/divider.svg" width="100%" height="4"/>
 
-## 🐍 Contribution Snake
+<div align="center">
+
+## <img src="https://raw.githubusercontent.com/SilentSoul8R/SilentSoul8R/main/assets/badge_contrib_snake.svg" height="32"/>
+
+</div>
+
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SilentSoul8R/SilentSoul8R/output/github-contribution-grid-snake-dark.svg" />
