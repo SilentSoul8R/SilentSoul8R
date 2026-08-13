@@ -10,7 +10,7 @@
 
 <div align="center">
 
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/> About Me
+## <img src="https://raw.githubusercontent.com/SilentSoul8R/SilentSoul8R/main/assets/badge_about_me.svg" height="32"/>
 
 
 **Computer Engineering student building things from the ground up.**
