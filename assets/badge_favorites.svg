@@ -1,29 +1,29 @@
-<svg width="468" height="84" viewBox="0 0 468 84" xmlns="http://www.w3.org/2000/svg">
+<svg width="560" height="84" viewBox="0 0 560 84" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bg1" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#000000"/>
       <stop offset="100%" stop-color="#1a0012"/>
     </linearGradient>
     <clipPath id="inner1">
-      <rect x="7" y="10" width="454" height="64"/>
+      <rect x="7" y="10" width="546" height="64"/>
     </clipPath>
   </defs>
 
-  <rect x="1" y="1" width="466" height="82" rx="3" fill="url(#bg1)" stroke="#00F0FF" stroke-width="2"/>
-  <rect x="7" y="10" width="454" height="64" fill="none" stroke="#00F0FF" stroke-width="0.6" opacity="0.35"/>
+  <rect x="1" y="1" width="558" height="82" rx="3" fill="url(#bg1)" stroke="#00F0FF" stroke-width="2"/>
+  <rect x="7" y="10" width="546" height="64" fill="none" stroke="#00F0FF" stroke-width="0.6" opacity="0.35"/>
 
   <!-- scanning highlight sweep -->
   <g clip-path="url(#inner1)">
     <rect x="-60" y="10" width="60" height="64" fill="#00F0FF" opacity="0.18">
-      <animate attributeName="x" values="-60;468" dur="3.1s" begin="0.3s" repeatCount="indefinite"/>
+      <animate attributeName="x" values="-60;560" dur="3.1s" begin="0.3s" repeatCount="indefinite"/>
     </rect>
   </g>
 
   <!-- label with block-character decoration, vertically centered on the actual glyph box
        (dominant-baseline handles this correctly regardless of font metrics, so the
        tall block glyphs can't clip the frame the way a fixed baseline guess did) -->
-  <text x="234" y="42.0" text-anchor="middle" dominant-baseline="central"
-        font-family="Fira Code, monospace" font-size="22"
+  <text x="280" y="42.0" text-anchor="middle" dominant-baseline="central"
+        font-family="Fira Code, monospace" font-size="30"
         font-weight="700" fill="#00F0FF" letter-spacing="1.5">
     &#9619;&#9619;&#9619; FAVORITES.dat &#9619;&#9619;&#9619;
     <animate attributeName="opacity"
