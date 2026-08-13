@@ -1,0 +1,70 @@
+<svg width="1000" height="210" viewBox="0 0 1000 210" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#000000"/>
+      <stop offset="100%" stop-color="#8A0057"/>
+    </linearGradient>
+
+    <clipPath id="frame">
+      <rect x="0" y="0" width="1000" height="210" rx="0"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect x="0" y="0" width="1000" height="210" fill="url(#bg)"/>
+
+    <!-- faint scanlines -->
+    <g opacity="0.12">
+      <animate attributeName="opacity" values="0.12;0.05;0.12" dur="0.2s" repeatCount="indefinite"/>
+      <rect x="0" y="0" width="1000" height="210" fill="url(#scan)"/>
+    </g>
+    <defs>
+      <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+        <rect width="4" height="2" fill="#000000"/>
+      </pattern>
+    </defs>
+
+    <!-- cyan ghost layer -->
+    <text x="500" y="100" text-anchor="middle" font-family="Fira Code, monospace" font-size="42" font-weight="700" fill="#00F0FF" opacity="0.85">
+      MUHAMMAD ABDULLAH
+      <animate attributeName="x" values="500;494;503;497;500" keyTimes="0;0.2;0.5;0.8;1" dur="2.6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.85;0.2;0.85;0.6;0.85" keyTimes="0;0.15;0.3;0.6;1" dur="2.6s" repeatCount="indefinite"/>
+    </text>
+
+    <!-- magenta ghost layer -->
+    <text x="500" y="100" text-anchor="middle" font-family="Fira Code, monospace" font-size="42" font-weight="700" fill="#FF2079" opacity="0.85">
+      MUHAMMAD ABDULLAH
+      <animate attributeName="x" values="500;507;493;502;500" keyTimes="0;0.2;0.5;0.8;1" dur="2.9s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.85;0.6;0.2;0.85;0.85" keyTimes="0;0.2;0.45;0.7;1" dur="2.9s" repeatCount="indefinite"/>
+    </text>
+
+    <!-- solid core layer, mostly white so the two color ghosts read as an RGB split -->
+    <text x="500" y="100" text-anchor="middle" font-family="Fira Code, monospace" font-size="42" font-weight="700" fill="#FFFFFF">
+      MUHAMMAD ABDULLAH
+      <animate attributeName="opacity" values="1;1;0.3;1;1;1;0.4;1" keyTimes="0;0.42;0.44;0.46;0.78;0.8;0.82;1" dur="3.4s" repeatCount="indefinite"/>
+    </text>
+
+    <!-- random glitch slice bars -->
+    <g fill="#00F0FF" opacity="0.5">
+      <rect x="120" y="70" width="180" height="6">
+        <animate attributeName="x" values="120;700;300;850;120" dur="3.1s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0;0.6;0;0.6;0" dur="3.1s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="600" y="118" width="140" height="5">
+        <animate attributeName="x" values="600;150;450;50;600" dur="2.4s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0;0.5;0;0.5;0" dur="2.4s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+    <g fill="#FF2079" opacity="0.5">
+      <rect x="380" y="82" width="160" height="5">
+        <animate attributeName="x" values="380;60;700;250;380" dur="2.8s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0;0.5;0;0.5;0" dur="2.8s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+
+    <!-- subtitle -->
+    <text x="500" y="140" text-anchor="middle" font-family="Fira Code, monospace" font-size="15" fill="#FF2079" letter-spacing="1">
+      COMPUTER ENGINEERING AT UET LAHORE
+    </text>
+  </g>
+</svg>
