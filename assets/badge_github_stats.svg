@@ -1,36 +1,49 @@
-<svg width="476" height="64" viewBox="0 0 476 64" xmlns="http://www.w3.org/2000/svg">
+<svg width="676" height="84" viewBox="0 0 676 84" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bg7" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#000000"/>
       <stop offset="100%" stop-color="#1a0012"/>
     </linearGradient>
     <clipPath id="inner7">
-      <rect x="7" y="14" width="462" height="36"/>
+      <rect x="7" y="10" width="662" height="64"/>
     </clipPath>
   </defs>
 
-  <rect x="1" y="1" width="474" height="62" rx="3" fill="url(#bg7)" stroke="#00F0FF" stroke-width="2"/>
-  <rect x="7" y="14" width="462" height="36" fill="none" stroke="#00F0FF" stroke-width="0.6" opacity="0.35"/>
+  <rect x="1" y="1" width="674" height="82" rx="3" fill="url(#bg7)" stroke="#00F0FF" stroke-width="2"/>
+  <rect x="7" y="10" width="662" height="64" fill="none" stroke="#00F0FF" stroke-width="0.6" opacity="0.35"/>
 
   <!-- scanning highlight sweep -->
   <g clip-path="url(#inner7)">
-    <rect x="-60" y="14" width="60" height="36" fill="#00F0FF" opacity="0.18">
-      <animate attributeName="x" values="-60;476" dur="4.1s" begin="0.6s" repeatCount="indefinite"/>
+    <rect x="-60" y="10" width="60" height="64" fill="#00F0FF" opacity="0.18">
+      <animate attributeName="x" values="-60;676" dur="4.1s" begin="0.6s" repeatCount="indefinite"/>
     </rect>
   </g>
 
-  <!-- flickering label text -->
-  <text x="238" y="40" text-anchor="middle" font-family="Fira Code, monospace" font-size="24"
-        font-weight="700" fill="#00F0FF" letter-spacing="2">
-    &#9619;&#9619;&#9619; GITHUB_STATS.log &#9619;&#9619;&#9619;
+  <!-- decorative bars, drawn rects sized to fit the frame exactly (not text glyphs) -->
+  <g fill="#00F0FF">
+    <rect x="20"   y="33.0"  width="5" height="18"/>
+    <rect x="30"  y="25.0" width="5" height="34"/>
+    <rect x="40"  y="33.0"  width="5" height="18"/>
+  </g>
+  <g fill="#00F0FF">
+    <rect x="631"  y="33.0"  width="5" height="18"/>
+    <rect x="641" y="25.0" width="5" height="34"/>
+    <rect x="651" y="33.0"  width="5" height="18"/>
+  </g>
+
+  <!-- label, vertically centered on its actual glyph box -->
+  <text x="338" y="42.0" text-anchor="middle" dominant-baseline="central"
+        font-family="Fira Code, monospace" font-size="30"
+        font-weight="700" fill="#00F0FF" letter-spacing="1.5">
+    GITHUB_STATS.log
     <animate attributeName="opacity"
       values="1;1;0.3;1;1;1;0.15;1"
       keyTimes="0;0.4;0.41;0.43;0.7;0.71;0.72;1"
       dur="3.8s" begin="0.25s" repeatCount="indefinite"/>
   </text>
 
-  <!-- blinking cursor block, matched to text height -->
-  <rect x="444" y="20" width="12" height="24" fill="#00F0FF">
+  <!-- blinking cursor block -->
+  <rect x="610" y="25.0" width="12" height="34" fill="#00F0FF">
     <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.5;0.5;1;1" dur="1s" repeatCount="indefinite"/>
   </rect>
 </svg>
