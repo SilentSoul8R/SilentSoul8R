@@ -174,8 +174,11 @@ I like understanding how systems actually work, from OOP fundamentals and databa
 
 <img src="https://raw.githubusercontent.com/SilentSoul8R/SilentSoul8R/main/assets/divider.svg" width="100%" height="4"/>
 
+<div align="center">
 
-## 📊 GitHub Stats
+## <img src="https://raw.githubusercontent.com/SilentSoul8R/SilentSoul8R/main/assets/badge_github_stats.svg" height="32"/>
+
+</div>
 
 <div align="center">
 
