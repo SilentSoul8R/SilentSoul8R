@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:8A0057&height=210&section=header&text=MUHAMMAD%20ABDULLAH&fontSize=36&fontColor=00F0FF&animation=twinkling&fontAlignY=45&desc=COMPUTER%20ENGINEERING%20AT%20UET%20LAHORE&descAlignY=65&descSize=15&descColor=FF2079" width="100%"/>
+<img src="https://raw.githubusercontent.com/SilentSoul8R/SilentSoul8R/main/assets/glitch_header.svg" width="100%"/>
 
 <a href="https://github.com/SilentSoul8R">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&color=FF2079&center=true&vCenter=true&width=600&lines=SYSTEM+ONLINE...;INITIALIZING+PORTFOLIO;RUNNING%3A+OOP+%2B+FULL-STACK+%2B+GAME+LOGIC;ACCESS+GRANTED" alt="Typing SVG" />
