@@ -1,0 +1,34 @@
+<svg width="1000" height="90" viewBox="0 0 1000 90" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- diagonal caution stripes, tiled and rotated -->
+    <pattern id="hazard" x="0" y="0" width="56" height="56" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <rect width="56" height="56" fill="#0A0A0A"/>
+      <rect width="28" height="56" fill="#FFD500"/>
+      <animateTransform attributeName="patternTransform" type="translate"
+        from="0 0" to="56 0" dur="1.6s" repeatCount="indefinite" additive="sum"/>
+    </pattern>
+
+    <linearGradient id="fade" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#000000" stop-opacity="0.55"/>
+      <stop offset="50%" stop-color="#000000" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0.55"/>
+    </linearGradient>
+  </defs>
+
+  <!-- scrolling hazard band -->
+  <rect x="0" y="0" width="1000" height="90" fill="url(#hazard)"/>
+
+  <!-- slight dark overlay so it doesn't overpower the page -->
+  <rect x="0" y="0" width="1000" height="90" fill="url(#fade)"/>
+
+  <!-- thin cyan trim top and bottom, ties it back to the header palette -->
+  <rect x="0" y="0" width="1000" height="3" fill="#00F0FF" opacity="0.8"/>
+  <rect x="0" y="87" width="1000" height="3" fill="#00F0FF" opacity="0.8"/>
+
+  <!-- centered warning label -->
+  <rect x="370" y="34" width="260" height="22" fill="#000000" opacity="0.75"/>
+  <text x="500" y="49" text-anchor="middle" font-family="Fira Code, monospace" font-size="13"
+        font-weight="700" fill="#00F0FF" letter-spacing="2">
+    ⚠ END OF LINE ⚠
+  </text>
+</svg>
