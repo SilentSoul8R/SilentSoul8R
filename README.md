@@ -27,7 +27,7 @@ I like understanding how systems actually work, from OOP fundamentals and databa
 
 <div align="center">
 
-## <img src="https://raw.githubusercontent.com/SilentSoul8R/SilentSoul8R/main/assets/diamond_lights.svg" width="80" valign="middle"/> Favorites <img src="https://raw.githubusercontent.com/SilentSoul8R/SilentSoul8R/main/assets/diamond_lights.svg" width="80" valign="middle"/>
+## <img src="https://raw.githubusercontent.com/SilentSoul8R/SilentSoul8R/main/assets/badge_favorites.svg" height="32"/>
 
 <table>
 <tr>
