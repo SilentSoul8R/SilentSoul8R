@@ -80,7 +80,11 @@ I like understanding how systems actually work, from OOP fundamentals and databa
 
 <img src="https://raw.githubusercontent.com/SilentSoul8R/SilentSoul8R/main/assets/divider.svg" width="100%" height="4"/>
 
-## 🌐 Socials
+<div align="center">
+
+## <img src="https://raw.githubusercontent.com/SilentSoul8R/SilentSoul8R/main/assets/badge_socials.svg" height="32"/>
+
+</div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-abdullah-uet-lhr)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SilentSoul8R)
