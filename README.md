@@ -232,4 +232,4 @@ I like understanding how systems actually work, from OOP fundamentals and databa
 </div>
 <img src="https://raw.githubusercontent.com/SilentSoul8R/SilentSoul8R/main/assets/divider.svg" width="100%" height="4"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A0057,100:000000&height=100&section=footer&animation=twinkling" width="100%"/>
+<img src="https://raw.githubusercontent.com/SilentSoul8R/SilentSoul8R/main/assets/hazard_footer.svg" width="100%"/>
