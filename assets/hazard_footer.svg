@@ -1,9 +1,9 @@
 <svg width="1000" height="90" viewBox="0 0 1000 90" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <!-- diagonal caution stripes, tiled and rotated -->
+    <!-- diagonal caution stripes, recolored to match the palette -->
     <pattern id="hazard" x="0" y="0" width="56" height="56" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
       <rect width="56" height="56" fill="#0A0A0A"/>
-      <rect width="28" height="56" fill="#FFD500"/>
+      <rect width="28" height="56" fill="#FF2079"/>
       <animateTransform attributeName="patternTransform" type="translate"
         from="0 0" to="56 0" dur="1.6s" repeatCount="indefinite" additive="sum"/>
     </pattern>
