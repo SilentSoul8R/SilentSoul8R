@@ -90,6 +90,7 @@ I like understanding how systems actually work, from OOP fundamentals and databa
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SilentSoul8R)
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:abdullahsanghera4@outlook.com)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullahsinghera2@gmail.com)
+[![Aquarius Softworks](https://img.shields.io/badge/Aquarius%20Softworks-000000?style=for-the-badge&logo=linkedin&logoColor=D4AF37)](https://aquarius-softworks.netlify.app/)
 
 <img src="https://raw.githubusercontent.com/SilentSoul8R/SilentSoul8R/main/assets/divider.svg" width="100%" height="4"/>
 
