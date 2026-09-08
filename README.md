@@ -111,6 +111,8 @@ I like understanding how systems actually work, from OOP fundamentals and databa
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
+![Streamlit](https://img.shields.io/badge/STREAMLIT-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Netlify](https://img.shields.io/badge/NETLIFY-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
  
 <img src="https://raw.githubusercontent.com/SilentSoul8R/SilentSoul8R/main/assets/divider.svg" width="100%" height="4"/>
  
